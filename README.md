@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-
-###
-![Snake Animation](https://coderxrohan.github.io/Coderxrohan/snake.svg)
