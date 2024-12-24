@@ -54,6 +54,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://raw.githubusercontent.com/Coderxrohan/output/snake.svg)
 
 ###
