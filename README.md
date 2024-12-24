@@ -43,11 +43,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDAxc2Y1eHRhcHB6bTVha3VyMXRidjg4amt1MHExaW5qc3J6NWUyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnF7vgz2oON3i/giphy.gif"  />
+<img align="right" height="223" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDAxc2Y1eHRhcHB6bTVha3VyMXRidjg4amt1MHExaW5qc3J6NWUyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnF7vgz2oON3i/giphy.gif"  />
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVhODd6cTY1NjIxYjBqNjR3OWo4NzJvMHN3MDk2bHB2dnZiYTYwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
 
