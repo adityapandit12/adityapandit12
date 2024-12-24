@@ -53,7 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
 
 ###
 ![Snake Animation](https://coderxrohan.github.io/Coderxrohan/snake.svg)
