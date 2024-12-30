@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adityapandit12/adityapandit12/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Coderxrohan/Coderxrohan/output/snake.svg" alt="Snake animation" />
 
 ###
 ## 🏆 GitHub Trophies
